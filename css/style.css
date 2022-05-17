@@ -1,8 +1,12 @@
+body{
+	background: #f2f5c8;
+}
+
 #title{
 	color: #076111;
 }
 
 .subtitle{
-	color: rgb(81, 221, 71);
+	color: rgb(34, 165, 25);
 }
 
